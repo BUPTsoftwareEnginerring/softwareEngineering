@@ -1,2 +1,2 @@
 # softwareEngineering
-SoftwareEngineering Big Project--Distributed Temperature Control System
+SoftwareEngineering Big Project--Distributed Central Air Conditioning System
